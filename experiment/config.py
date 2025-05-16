@@ -1,0 +1,3 @@
+TIMES = '(1)'
+NONIID = 1000.0
+EXPER = 1
